@@ -1,0 +1,14 @@
+[
+  {
+    "category": "ui",
+    "description": "Description of the ui task",
+    "steps": ["Step 1", "Step 2", "Step 3"],
+    "passes": false
+  },
+  {
+    "category": "backend",
+    "description": "Description of the backend task",
+    "steps": ["Step 1", "Step 2", "Step 3", "Step 4"],
+    "passes": false
+  }
+]
